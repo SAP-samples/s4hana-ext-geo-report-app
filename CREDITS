@@ -1,0 +1,21 @@
+This program references the following third party open source or other free download components.
+The third party licensors of these components may provide additional license rights,
+terms and conditions and/or require certain notices as described below.
+
+SLF4J API Module (org.slf4j:slf4j-api:1.7.25 - http://www.slf4j.org)
+Licensed under MIT License
+
+Spring Boot Developer Tools (org.springframework.boot:spring-boot-devtools:1.5.4.RELEASE - http://projects.spring.io/spring-boot/)
+Licensed under Apache License, Version 2.0
+
+spring-boot-legacy (org.springframework.boot:spring-boot-legacy:1.1.0.RELEASE - http://spring.io)
+Licensed under Apache 2.0
+
+Spring Boot Test Starter (org.springframework.boot:spring-boot-starter-test:1.5.4.RELEASE - http://projects.spring.io/spring-boot/)
+Licensed under Apache License, Version 2.0
+
+Spring Boot Thymeleaf Starter (org.springframework.boot:spring-boot-starter-thymeleaf:1.5.4.RELEASE - http://projects.spring.io/spring-boot/)
+Licensed under Apache License, Version 2.0
+
+Spring Boot Tomcat Starter (org.springframework.boot:spring-boot-starter-tomcat:1.5.4.RELEASE - http://projects.spring.io/spring-boot/)
+Licensed under Apache License, Version 2.0
