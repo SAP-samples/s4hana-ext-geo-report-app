@@ -37,7 +37,7 @@ proxyPort = 8080
 
 How to obtain support
 ---------------------
-If you have issues with this sample, please open a report using [GitHub issues](https://github.com/SAP/s4hana-ext-order-app/issues).
+If you have issues with this sample, please open a report using [GitHub issues](https://github.com/SAP/s4hana-ext-geo-report-app/issues).
 
 License
 -------
