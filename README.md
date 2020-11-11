@@ -43,3 +43,7 @@ License
 -------
 Copyright © 2020 SAP SE or an SAP affiliate company. All rights reserved.
 This file is licensed under the SAP Sample Code License except as noted otherwise in the [LICENSE file](LICENSES/Apache-2.0.txt).
+
+Badge
+-----
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/s4hana-ext-geo-report-app/)](https://api.reuse.software/info/github.com/SAP-samples/s4hana-ext-geo-report-app/)
