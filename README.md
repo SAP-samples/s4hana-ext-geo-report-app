@@ -1,4 +1,6 @@
-# SAP S/4HANA Cloud Extensions - SAP S/4HANA Cloud Geo Reporting for Product Web Ordering application
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/s4hana-ext-geo-report-app/)](https://api.reuse.software/info/github.com/SAP-samples/s4hana-ext-geo-report-app/)
+
+# SAP S/4HANA Cloud Extensions - SAP S/4HANA Cloud Geo Reporting for Product Web Ordering Application
 This repository contains the sample code for the web product-ordering app from [SAP S/4HANA Cloud Product Web Ordering and Reporting tutorial](http://tiny.cc/s4-geo-report-app).
 
 *This code is only one part of the tutorial, so please follow the tutorial before attempting to use this code.*
@@ -41,7 +43,4 @@ If you have issues with this sample, please open a report using [GitHub issues](
 
 License
 -------
-Copyright © 2020 SAP SE or an SAP affiliate company. All rights reserved.
-This file is licensed under the SAP Sample Code License except as noted otherwise in the [LICENSE file](LICENSES/Apache-2.0.txt).
-
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/s4hana-ext-geo-report-app/)](https://api.reuse.software/info/github.com/SAP-samples/s4hana-ext-geo-report-app/)
+Copyright © 2020 SAP SE or an SAP affiliate company. All rights reserved. This file is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE file](LICENSES/Apache-2.0.txt).
