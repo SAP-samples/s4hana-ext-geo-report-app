@@ -48,7 +48,7 @@
 		</auth-constraint>
 	</security-constraint>
 	<security-role>
-		<description>All SAP Cloud Platform users</description>
+		<description>All SAP Business Technology Platform (BTP) users</description>
 		<role-name>Everyone</role-name>
 	</security-role>
 
